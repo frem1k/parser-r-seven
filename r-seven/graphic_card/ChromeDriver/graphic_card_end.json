@@ -1,0 +1,446 @@
+[
+    {
+        "card name": "Видеокарта AFOX (AF210-1024D2LG2) GeForce GT 210 1GB",
+        "card price": "2 050 ₽"
+    },
+    {
+        "card name": "SLI-мост ASUS ROG-NVLINK-4",
+        "card price": "2 120 ₽"
+    },
+    {
+        "card name": "Видеокарта Sinotex Ninja (NK21NP013F) GeForce GT 210 1GB",
+        "card price": "2 150 ₽"
+    },
+    {
+        "card name": "Видеокарта Sinotex Ninja (AKR523013F) Radeon R5 230 1GB",
+        "card price": "2 430 ₽"
+    },
+    {
+        "card name": "Видеокарта Sinotex Ninja (AKR523023F) Radeon R5 230 2GB",
+        "card price": "2 710 ₽"
+    },
+    {
+        "card name": "Видеокарта AFOX (AF610-2048D3L7-V5) GeForce GT 610 2 GB",
+        "card price": "2 810 ₽"
+    },
+    {
+        "card name": "Видеокарта AFOX (AF730-2048D5H5) GeForce GT 730 2GB",
+        "card price": "4 600 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N730D3-2GI) GeForce GT 730 2GB (rev. 3.0)",
+        "card price": "4 890 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-71113-20L) GeForce GT 730 2GB Zone Edition ",
+        "card price": "4 890 ₽"
+    },
+    {
+        "card name": "Видеокарта Colorful (GT730K 4GD3-V) GeForce GT 730 4Gb 4GD3-V",
+        "card price": "5 170 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-71115-20L) GeForce GT 730 4GB Zone Edition",
+        "card price": "5 450 ₽"
+    },
+    {
+        "card name": "Видеокарта ASUS (GT730-SL-2GD5-BRK) GeForce GT 730 2GB LP",
+        "card price": "5 560 ₽"
+    },
+    {
+        "card name": "Видеокарта AFOX (AF740-4096D3L3) GeForce GT 740 4Gb",
+        "card price": "5 730 ₽"
+    },
+    {
+        "card name": "Видеокарта ASUS (GT730-4H-SL-2GD5) GeForce GT 730 2GB LP",
+        "card price": "5 730 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NEC103000646-1082F) GeForce GT 1030 2GB",
+        "card price": "6 520 ₽"
+    },
+    {
+        "card name": "Видеокарта AFOX (AF740-4096D5H3) GeForce GT 740 4GB Single Fan",
+        "card price": "6 900 ₽"
+    },
+    {
+        "card name": "Видеокарта Sinotex Ninja (NH74NP025F) GeForce GT740 2GB",
+        "card price": "6 960 ₽"
+    },
+    {
+        "card name": "Видеокарта AFOX (AF730-4096D3L6) GeForce GT 730 4GB",
+        "card price": "8 020 ₽"
+    },
+    {
+        "card name": "Видеокарта AFOX (AF750-4096D5L4-V2) GeForce GTX 750 4GB LP",
+        "card price": "8 830 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-R64EAGLE-4GD) Radeon RX 6400 4GB EAGLE",
+        "card price": "13 470 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N105TD5-4GD) GeForce GTX 1050 Ti 4GB",
+        "card price": "16 220 ₽"
+    },
+    {
+        "card name": "Видеокарта PowerColor (AXRX 6500XT 4GBD6-DH/OC) Radeon RX 6500 XT 4Gb Fighter",
+        "card price": "16 410 ₽"
+    },
+    {
+        "card name": "Видеокарта Sapphire (11314-01-20G) AMD Radeon RX 6500 XT 4GB PULSE",
+        "card price": "17 280 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (GTX 1650 4GT LP OC) GeForce GTX 1650 4GB LP OC",
+        "card price": "17 400 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (GTX 1650 D6 VENTUS XS OC) GeForce GTX 1650 D6 4GB VENTUS XS OC",
+        "card price": "17 420 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N1656OC-4GD) GeForce GTX 1650 D6 4GB OC (rev. 2.0)",
+        "card price": "17 460 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE6165001BG1-1175A) GeForce GTX 1650 4GB GP",
+        "card price": "17 510 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N1650OC-4GL) GeForce GTX 1650 4GB Low Profile",
+        "card price": "17 750 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-R65XTEAGLE-4GD) Radeon RX 6500 XT 4GB EAGLE",
+        "card price": "17 800 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (GTX 1650 D6 VENTUS XS V1) GeForce GTX 1650 1590MHz PCI-E 3.0 4096MB 12000MHz 128 bit DVI DisplayPort HDMI HDCP D6 VENTUS XS V1",
+        "card price": "17 910 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-R65XTGAMING OC-4GD) Radeon RX 6500 XT 4GB GAMING OC",
+        "card price": "18 600 ₽"
+    },
+    {
+        "card name": "Видеокарта Sinotex Ninja (AJRX58085F) AMD Radeon RX 580 8Gb",
+        "card price": "19 650 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-RX580GAMING-8GD) AMD ATI Radeon RX 580 8Gb Gaming (rev. 2.0)",
+        "card price": "20 780 ₽"
+    },
+    {
+        "card name": "Видеокарта AFOX (AFRX570-8192D5H3-V2) Radeon RX 570 8GB ATX DUAL FAN ",
+        "card price": "23 020 ₽"
+    },
+    {
+        "card name": "Видеокарта ASUS (TUF-GTX1660S-O6G-GAMING) GeForce GTX 1660 SUPER 6Gb TUF GAMING OC",
+        "card price": "24 450 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N166TD6-6GD) GeForce GTX 1660 Ti 6 Gb",
+        "card price": "25 260 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N166SOC-6GD) GeForce GTX 1660 SUPER 6GB OC",
+        "card price": "25 450 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE63050019P1-190AD) GeForce RTX 3050 8GB Dual",
+        "card price": "27 300 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3050EAGLE OC-8GD) GeForce RTX 3050 8GB EAGLE OC",
+        "card price": "28 790 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (RTX 3050 VENTUS 2X 8G OC) GeForce RTX 3050 8GB VENTUS 2X OC",
+        "card price": "28 900 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3050GAMING OC-8GD) GeForce RTX 3050 8GB GAMING OC",
+        "card price": "29 870 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (RTX 2060 VENTUS GP OC) GeForce  RTX 2060 6GB VENTUS GP OC",
+        "card price": "30 890 ₽"
+    },
+    {
+        "card name": "Видеокарта AFOX (AFRX580-8192D5H3-V2) Radeon RX 580 8GB ATX DUAL FAN ",
+        "card price": "31 030 ₽"
+    },
+    {
+        "card name": "Видеокарта Gainward (NE62060018K9-1160L) GeForce RTX 2060 12GB Ghost OEM",
+        "card price": "31 910 ₽"
+    },
+    {
+        "card name": "Видеокарта GAINWARD (NE6206S018P2-1160X-1) GeForce RTX 2060 SUPER 8GB DUAL OEM",
+        "card price": "33 950 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE6206S018P2-1160A-1) GeForce RTX 2060 SUPER DUAL 8GB ",
+        "card price": "36 300 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-R665XTEAGLE-8GD) Radeon RX 6650 XT 8GB EAGLE 8G",
+        "card price": "37 380 ₽"
+    },
+    {
+        "card name": "Видеокарта GAINWARD (NE63060019K9-190AU) GeForce RTX 3060 12GB GHOST RTL",
+        "card price": "37 700 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-R665XTGAMING OC-8GD) Radeon RX 6650 XT 8GB GAMING OC 8G",
+        "card price": "38 390 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE63060019K9-190AD) GeForce RTX 3060 12GB Dual LHR",
+        "card price": "41 300 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3060GAMING OC-12GD) GeForce RTX 3060 12Gb GAMING OC",
+        "card price": "41 910 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3060EAGLE OC-12GD 2.0) GeForce RTX 3060 EAGLE OC 12GB (rev. 2.0) LHR",
+        "card price": "41 910 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE63060T19K9-190AD) GeForce RTX 3060 12GB Dual OC LHR",
+        "card price": "42 300 ₽"
+    },
+    {
+        "card name": "Видеокарта GAINWARD (NE6306T019P2-190AS) GeForce RTX 3060 Ti 8GB GHOST OEM",
+        "card price": "42 900 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (RTX 3060 VENTUS 2X 12G OC RU) GeForce RTX 3060 12GB VENTUS 2X OC LHR",
+        "card price": "42 900 ₽"
+    },
+    {
+        "card name": "Видеокарта PNY (VCG306012DFMPB) GeForce RTX 3060 12GB UPRISING Dual Fan Edition LHR",
+        "card price": "43 650 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (RTX 3060 VENTUS 3X 12G OC) GeForce RTX 3060 12GB VENTUS 3X OC LHR",
+        "card price": "43 810 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE6306T019P2-190AD) GeForce RTX 3060 Ti 8GB Dual V1 LHR",
+        "card price": "43 900 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3060GAMING OC-12GD 2.0) GeForce RTX 3060 12GB GAMING OC (rev. 2.0) LHR",
+        "card price": "44 350 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE6306TS19P2-190AD) GeForce RTX 3060 Ti 8GB Dual OC V1 LHR",
+        "card price": "45 900 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (RTX 3060 TI VENTUS 2X 8G OCV1) GeForce RTX 3060 Ti VENTUS 2X 8G OCV1 LHR OEM",
+        "card price": "46 600 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (RTX 3060 TI VENTUS 2X 8G OCV1) GeForce RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "card price": "46 900 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (RTX 3060 TI VENTUS 3X 8G OC) GeForce RTX 3060 Ti 8GB VENTUS 3X OC LHR",
+        "card price": "47 900 ₽"
+    },
+    {
+        "card name": "Видеокарта PowerColor (AXRX 6700XT 12GBD6-3DH) Radeon RX 6700XT 12GB Fighter",
+        "card price": "49 960 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N306TEAGLE OC-8GD 2.0) GeForce RTX 3060 Ti 8Gb EAGLE OC (rev. 2.0) LHR",
+        "card price": "50 390 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N306TGAMING OC-8GD 2.0) GeForce RTX 3060 Ti 8GB GAMING OC (rev. 2.0)",
+        "card price": "51 450 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N306TGAMINGOC PRO-8GD) GeForce RTX 3060 Ti 8Gb GAMING OC PRO (rev. 3.0) LHR",
+        "card price": "52 430 ₽"
+    },
+    {
+        "card name": "Видеокарта GAINWARD (NE63070019P2-1041X) GeForce RTX 3070 8GB",
+        "card price": "53 590 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N306TVISION OC-8GD 2.0) GeForce RTX 3060 Ti 8Gb VISION OC (rev. 2.0) LHR",
+        "card price": "54 900 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3070EAGLE OC-8GD 2.0) GeForce RTX 3070 8Gb EAGLE OC (rev. 2.0)",
+        "card price": "55 910 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3070GAMING OC-8GD 2.0) GeForce RTX 3070 8Gb Gaming OC (rev. 2.0)",
+        "card price": "56 890 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE63070019P2-1041A) GeForce RTX 3070 8GB PA-RTX3070 GAMINGPRO V1 LHR",
+        "card price": "57 860 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NE63070S19P2-1041A) GeForce RTX 3070 8GB GAMINGPRO OC",
+        "card price": "57 910 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-A30710P-10S) GeForce RTX 3070 Ti 8GB AMP HOLO",
+        "card price": "60 900 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N307TGAMING OC-8GD) GeForce RTX 3070 Ti 8Gb GAMING OC",
+        "card price": "62 400 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NED307T019P2-1046A) GeForce RTX 3070 Ti 8GB GAMINGPRO",
+        "card price": "62 810 ₽"
+    },
+    {
+        "card name": "Видеокарта MSI (RTX 3070 Ti VENTUS 3X 8G OC) GeForce RTX 3070 Ti 8Gb VENTUS 3X OC",
+        "card price": "62 950 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N307TVISION OC-8GD) GeForce RTX 3070 Ti 8Gb VISION OC",
+        "card price": "62 970 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N307TAORUS M-8GD) GeForce RTX 3070 Ti AORUS M 8GB",
+        "card price": "65 920 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-R68GAMING OC-16GD) Radeon RX 6800 16GB GAMING OC",
+        "card price": "67 360 ₽"
+    },
+    {
+        "card name": "Видеокарта GAINWARD (NED3080019IA-132AX) GeForce RTX 3080 M 10GB LHR",
+        "card price": "71 110 ₽"
+    },
+    {
+        "card name": "Видеокарта PowerColor (AXRX 6800XT 16GBD6-3DHR/OC) Radeon RX 6800 XT 16GB Red Dragon OC",
+        "card price": "72 910 ₽"
+    },
+    {
+        "card name": "Видеокарта XFX (RX-67XTYPBDP) AMD Radeon RX 6700 XT 12GB Speedster QICK 319",
+        "card price": "74 220 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-A30800F-10PLHR) GeForce RTX 3080 10Gb AMP Holo LHR",
+        "card price": "80 900 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-R68XTAORUS M-16GD) Radeon RX 6800 XT 16Gb AORUS MASTER",
+        "card price": "81 380 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NED3080019IA-132AA) GeForce RTX 3080 10Gb GAMINGPRO ",
+        "card price": "81 910 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3080VISION OC-10GD 2.0) GeForce RTX 3080 10Gb VISION OC (rev. 2.0)",
+        "card price": "83 900 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3080GAMING OC-10GD) GeForce RTX 3080 10Gb GAMING OC (rev. 2.0)",
+        "card price": "83 900 ₽"
+    },
+    {
+        "card name": "Видеокарта NVIDIA (900-5G190-2200-000) RTX A4000 16GB",
+        "card price": "83 940 ₽"
+    },
+    {
+        "card name": "Видеокарта Sapphire (11304-03-20G) Radeon RX 6800 XT 16GB PULSE",
+        "card price": "84 200 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-R69XTAORUSX WB-16GD) Radeon RX 6900 XT 16 Gb AORUS WB",
+        "card price": "87 010 ₽"
+    },
+    {
+        "card name": "Видеокарта INNO3D CMP GeForce 90HX CMP-90HX MCMP90X3M",
+        "card price": "89 800 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-A30820B-10PLHR) GeForce RTX 3080 12GB AMP Extreme Holo LHR",
+        "card price": "93 900 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-A30820J-10PLHR) GeForce RTX 3080 12Gb Trinity OC",
+        "card price": "93 900 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-A30820D-10PLHR) GeForce RTX 3080 12Gb TRINITY LHR",
+        "card price": "93 920 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-A30820F-10PLHR) GeForce RTX 3080 12GB AMP Holo LHR",
+        "card price": "93 980 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3080GAMING OC-12GD) GeForce RTX 3080 12Gb GAMING OC",
+        "card price": "96 910 ₽"
+    },
+    {
+        "card name": "Видеокарта ZOTAC (ZT-A30810J-10P) GeForce RTX 3080 Ti 12Gb TRINITY OC",
+        "card price": "99 910 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N308TGAMING OC-12GD) GeForce RTX 3080 Ti 12Gb GAMING OC",
+        "card price": "102 860 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N308TEAGLE OC-12GD) GeForce RTX 3080 Ti 12Gb EAGLE OC",
+        "card price": "105 520 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NED308T019KB-1020G) GeForce RTX 3080 Ti 12GB GAMEROCK",
+        "card price": "115 240 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NED3090019SB-132BA) GeForce RTX 3090 24GB PA-RTX3090 GAMINGPRO",
+        "card price": "131 920 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3090GAMING OC-24GD) GeForce RTX 3090 24GB GAMING OC",
+        "card price": "143 690 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N3090TURBO-24GD) GeForce RTX 3090 24GB TURBO",
+        "card price": "145 930 ₽"
+    },
+    {
+        "card name": "Видеокарта Palit (NED309T019SB-1022G) GeForce RTX 3090 Ti 24GB GameRock",
+        "card price": "157 620 ₽"
+    },
+    {
+        "card name": "Видеокарта GIGABYTE (GV-N309TGAMING OC-24GD) GeForce RTX 3090 Ti 24GB GAMING OC",
+        "card price": "161 930 ₽"
+    },
+    {
+        "card name": "Видеокарта PNY (VCQRTX5000-PB) NVIDIA  Quadro RTX5000 16GB GDDR6X 256-bit PCI-Ex16 Gen 3.0 HDCP 2.2 HEVC and HDMI 2.0b support 1x DP to DVI-D 1x DP",
+        "card price": "222 550 ₽"
+    },
+    {
+        "card name": "Видеокарта PNY (VCNRTXA5000-PB) Quadro RTX A5000 24GB OEM",
+        "card price": "237 970 ₽"
+    },
+    {
+        "card name": "Видеокарта PNY (VCNRTXA5000-SB) Quadro RTX A5000 24GB ",
+        "card price": "237 970 ₽"
+    },
+    {
+        "card name": "Видеокарта PNY (VCQRTX6000-PB) NVIDIA Quadro RTX6000 24GB GDDR6X 384-bit PCI-Ex16 Gen 3.0",
+        "card price": "343 460 ₽"
+    },
+    {
+        "card name": "Видеокарта PNY (VCNRTXA6000) Quadro RTX A6000",
+        "card price": "523 200 ₽"
+    }
+]
